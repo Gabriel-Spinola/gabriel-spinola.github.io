@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 10
+title = "-- $bielspinola"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/blowfish_logo_transparent.png"
+description = ""
+
+[author]
+name = "Gabriel Spinola"
+image = "img/me.png"
+headline = "I'm a Brazilian software engineer. I'm particularly interested complex systems, competitions and, technology research. Also, I spend a lot of my free time working on game dev projects"
+bio = "asd"
+links = [
+  { email = "mailto:gabrielspinola77@gmail.com" },
+  { github = "https://github.com/Gabriel-Spinola" },
+  { itch-io = "https://gabriel-spinola.itch.io" },
+  { linkedin = "https://www.linkedin.com/in/gabriel-spinola-b64b5b273/" },
+  { x-twitter = "https://twitter.com/gabrielsevin7" },
+]
