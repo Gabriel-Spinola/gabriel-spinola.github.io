@@ -7,10 +7,4 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
-{{< /lead >}}
-
-
-
 ---

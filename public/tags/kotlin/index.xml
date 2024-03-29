@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on -- $bielspinola</title>
+    <link>http://localhost:1313/tags/kotlin/</link>
+    <description>Recent content in Kotlin on -- $bielspinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Gabriel Spinola</copyright>
+    <atom:link href="http://localhost:1313/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Builder Buddy</title>
+      <link>http://localhost:1313/projects/builderbuddy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/builderbuddy/</guid>
+      <description>A Modern solution for morden architecture problems. On going project featuring: homemade server, mobile application &amp;amp; web client</description>
+      
+    </item>
+    
+  </channel>
+</rss>
