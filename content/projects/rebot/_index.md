@@ -1,11 +1,10 @@
 ---
 title: "Re-Bot"
-description: "Game."
+description: "Gameasdasdasdasd."
+slug: "test slug"
+externalUrl: "https://github.com/Jogos-Bao-Demais/ReBot-GameJaaj6"
+tags: ["Unity", "C#", "Game Dev"]
 
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
 ---
 
 # 2D platformer game built using Unity in one Week 

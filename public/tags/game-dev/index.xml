@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Dev on -- $bielspinola</title>
+    <link>http://localhost:1313/tags/game-dev/</link>
+    <description>Recent content in Game Dev on -- $bielspinola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Gabriel Spinola</copyright>
+    <atom:link href="http://localhost:1313/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re-Bot</title>
+      <link>http://localhost:1313/projects/rebot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/rebot/</guid>
+      <description>2D platformer game built using Unity in one Week #Developed for the Game Jaaj 6. The theme was Cycles. Re-Bot is a 2D platformer game, with intuitive gameplay, an enigmatic story, and some cute characters&amp;hellip; or not so.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

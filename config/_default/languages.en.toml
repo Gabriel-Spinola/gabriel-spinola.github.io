@@ -8,13 +8,13 @@ displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-# logo = "img/blowfish_logo_transparent.png"
+# logo = "img/me.png"
 description = ""
 
 [author]
 name = "Gabriel Spinola"
 image = "img/me.png"
-headline = "I'm a Brazilian software engineer. I'm particularly interested complex systems, competitions and, technology research. Also, I spend a lot of my free time working on game dev projects"
+headline = "I'm a Brazilian software engineer. I'm particularly interested in complex systems, competitions and, technology research. Also, I spend a lot of my free time working on game dev projects"
 bio = "asd"
 links = [
   { email = "mailto:gabrielspinola77@gmail.com" },
