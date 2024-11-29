@@ -14,6 +14,7 @@
   {{ with (index $translations .Lang) }}
     <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
   {{ else }}
+  <a href="/projects/"></a>
     <!-- The complicated setup was necessary to make a grayed out link -->
     {{ if not .Params.hideUntranslated }}
       <a class="disabled" role="link" aria-disabled="true">{{ .LanguageName }}</a>
