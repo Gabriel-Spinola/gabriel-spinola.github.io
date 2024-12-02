@@ -15,9 +15,64 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gabrielspinola77@gmail.com (Gabriel Spinola)</author>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h1 id=&#34;my-projects&#34;&gt;My projects&lt;/h1&gt;&#xA;&lt;p&gt;asdasd&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h1 id="my-projects">My projects</h1>
-<p>asdasd</p>
+      <description>&lt;h1 id=&#34;-my-projects&#34;&gt;🚀 My Projects&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my projects showcase!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-featured-projects&#34;&gt;🌟 Featured Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vigel-tech&#34;&gt;&lt;strong&gt;Vigel Tech&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 1 Screenshot&#34; src=&#34;http://localhost:1313/images/vigeltech.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A development agency focused on web and mobile development&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; ReactJS (NextJS) &amp;amp; Kotlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; 🚀 Live&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;🔗 View Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;maps-40&#34;&gt;&lt;strong&gt;Maps 4.0&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 2 Screenshot&#34; src=&#34;http://localhost:1313/images/maps40.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; system designed to streamline the management and scheduling of rooms at SENAI Centro 4.0. It allows staff to check availability, book spaces, and access schedules with ease. By centralizing information, it prevents scheduling conflicts and optimizes space usage.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="-my-projects">🚀 My Projects</h1>
+<p>Welcome to my projects showcase!</p>
+<hr>
+<h2 id="-featured-projects">🌟 Featured Projects</h2>
+<h3 id="vigel-tech"><strong>Vigel Tech</strong></h3>
+<p><img alt="Project 1 Screenshot" src="/images/vigeltech.png"></p>
+<blockquote>
+<p><strong>Description:</strong> A development agency focused on web and mobile development</p>
+</blockquote>
+<ul>
+<li><strong>Technologies Used:</strong> ReactJS (NextJS) &amp; Kotlin</li>
+<li><strong>Status:</strong> 🚀 Live</li>
+</ul>
+<p><a href="https://vigeltech.vercel.app/">🔗 View Project</a></p>
+<hr>
+<h3 id="maps-40"><strong>Maps 4.0</strong></h3>
+<p><img alt="Project 2 Screenshot" src="/images/maps40.png"></p>
+<blockquote>
+<p><strong>Description:</strong> system designed to streamline the management and scheduling of rooms at SENAI Centro 4.0. It allows staff to check availability, book spaces, and access schedules with ease. By centralizing information, it prevents scheduling conflicts and optimizes space usage.</p>
+</blockquote>
+<ul>
+<li><strong>Technologies Used:</strong> Javascript &amp; PHP</li>
+<li><strong>Features:</strong>
+<ul>
+<li>CRM</li>
+<li>Customizable dashboards</li>
+</ul>
+</li>
+<li><strong>Status:</strong> 🚀 Live</li>
+</ul>
+<p><a href="https://maps40.fredaugusto.com.br/Maps/client/pages/login/">🔗 View Project</a></p>
+<hr>
+<h2 id="-other-projects">📂 Other Projects</h2>
+<ul>
+<li>
+<p><strong>PokeGelo-CLI:</strong> A command-line interface (CLI) tool designed to simplify sending HTTP requests. Easier and more intuitive than using curl, PokeGelo-CLI allows sending HTTP requests by providing a JSON file containing the request and its body. Useful for testing APIs, debugging, and automating HTTP requests.</p>
+<p><a href="https://github.com/Gabriel-Spinola/PokeGelo-CLI">🔗 View Project</a></p>
+</li>
+<li>
+<p><strong>Telecord:</strong> A bot for sending messages from a Telegram chat to a Discord chat.</p>
+<p><a href="https://github.com/Gabriel-Spinola/Wellington-Bot">🔗 View Project</a></p>
+</li>
+</ul>
+<h2 id="ଳ-game-dev-projects">ଳ Game Dev Projects</h2>
+<ul>
+<li>
+<p><strong>Mini App:</strong> A small utility app built using Vue.js.<br>
+<a href="https://example.com/mini-app">🔗 View Project</a></p>
+</li>
+<li>
+<p><strong>E-commerce Platform:</strong> A robust platform for online businesses.<br>
+<a href="https://example.com/ecommerce">🔗 View Project</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="contact-me">Contact me</h2>
+<p>If you’re interested in learning more or collaborating, feel free to reach out via <a href="mailto:your-email@example.com">email</a> or <a href="https://linkedin.com/in/your-profile">LinkedIn</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
