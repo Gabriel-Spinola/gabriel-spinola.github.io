@@ -9,7 +9,7 @@ weight: 1
 
 <div style="text-align: center;">
 <pre><code>
- Software Developer & Game-Dev wannabe
+ Software Developer & Game-Dev (sometimes)
    |
    |
    ⠀⠀⠀⠀⡴⠂⢩⡉⠉⠉⡖⢄⠀   
