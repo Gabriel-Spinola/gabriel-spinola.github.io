@@ -32,5 +32,9 @@ I'm currently competing in the WorldSkills Competition #08 for Mobile Developmen
 - [Games released](https://gabriel-spinola.itch.io/) - itch.io
 
 ###  More on my work
+- [Projects](/projects/)
 - [Linkedin](https://www.linkedin.com/in/gabriel-spinola-b64b5b273/?locale=en_US)
 - [Github](https://github.com/Gabriel-Spinola)
+
+## Contact me
+feel free to reach out via [email](mailto:gabrielspinola77@gmail.com), [github](https://github.com/Gabriel-Spinola) or [LinkedIn](https://www.linkedin.com/in/gabriel-spinola-b64b5b273/).

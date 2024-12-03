@@ -35,27 +35,46 @@ Welcome to my projects showcase!
 
 [🔗 View Project](https://maps40.fredaugusto.com.br/Maps/client/pages/login/)
 
+### **Telecord:** 
+> **Description:** designed to relay messages between Telegram and Discord, was employed in the [Vittozão](https://www.youtube.com/@Vittozao) community to automate the sharing of advertisements and discount codes.
+
+- **Technologies Used:** Javascript
+- **Status:** 🚀 Live
+
+[🔗 View Project](https://github.com/Gabriel-Spinola/Wellington-Bot)
+
 ---
 
-## 📂 Other Projects
-- **PokeGelo-CLI:** A command-line interface (CLI) tool designed to simplify sending HTTP requests. Easier and more intuitive than using curl, PokeGelo-CLI allows sending HTTP requests by providing a JSON file containing the request and its body. Useful for testing APIs, debugging, and automating HTTP requests.
+## 📂 Tools & Open Source Contributions
+### **PokeGelo-CLI** 
+A command-line interface (CLI) tool designed to simplify sending HTTP requests. Easier and more intuitive than using curl, PokeGelo-CLI allows sending HTTP requests by providing a JSON file containing the request and its body. Useful for testing APIs, debugging, and automating HTTP requests.
 
-    [🔗 View Project](https://github.com/Gabriel-Spinola/PokeGelo-CLI)
+[🔗 View Project](https://github.com/Gabriel-Spinola/PokeGelo-CLI)
 
-- **Telecord:** A bot for sending messages from a Telegram chat to a Discord chat.
+### **Arquitetura M (Rinha de Backends)**
+Http framework and application built from scratch with C. featuring: concurrent API implementation, reverse proxy and, PostgreSQL database implentation.
+Submission for https://github.com/zanfranceschi/rinha-de-backend-2024-q1
 
-    [🔗 View Project](https://github.com/Gabriel-Spinola/Wellington-Bot)
+[🔗 View Project](https://github.com/Gabriel-Spinola/http-server-in-c)
 
 
 ## ଳ Game Dev Projects
-- **Mini App:** A small utility app built using Vue.js.  
-  [🔗 View Project](https://example.com/mini-app)
+- **Re-bot:** This game was developed for the Game Jaaj 6. The theme was Cycles.
+> Re-Bot is a 2D platformer game, with intuitive gameplay, an enigmatic story, and some cute characters... or not so.
+>
+> <iframe frameborder="0" src="https://itch.io/embed/1134745?bg_color=323132&amp;fg_color=ff873f&amp;link_color=ffffff&amp;border_color=ffdd94" width="552" height="167"><a href="https://gabriel-spinola.itch.io/re-bot">Re-Bot! by Gabriel-Spinola, Tio_Torugo_BR</a></iframe>
 
-- **E-commerce Platform:** A robust platform for online businesses.  
-  [🔗 View Project](https://example.com/ecommerce)
+  [🔗 View Project](https://gabriel-spinola.itch.io/re-bot)
+
+- **Hell-End:** 2D platformer game built in 3 days.  
+Developed for the [Vaca Jam](https://itch.io/jam/vacajam-meio/rate/1238332). The theme was _The esiest game of the world_.
+2D Bullet hell platformer shooter
+
+> <iframe frameborder="0" src="https://itch.io/embed/1238332?bg_color=290d27&amp;fg_color=eccd84&amp;link_color=d467db&amp;border_color=d8ad5b" width="552" height="167"><a href="https://gabriel-spinola.itch.io/vacajam">Hell End by Gabriel-Spinola, aahnnt, Danji &lt;3</a></iframe>
+
+[🔗 View Project](https://gabriel-spinola.itch.io/vacajam)
 
 ---
 
 ## Contact me
-
-If you’re interested in learning more or collaborating, feel free to reach out via [email](mailto:your-email@example.com) or [LinkedIn](https://linkedin.com/in/your-profile).
+feel free to reach out via [email](mailto:gabrielspinola77@gmail.com), [github](https://github.com/Gabriel-Spinola) or [LinkedIn](https://www.linkedin.com/in/gabriel-spinola-b64b5b273/).

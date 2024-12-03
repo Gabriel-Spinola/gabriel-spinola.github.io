@@ -47,32 +47,45 @@
 <li><strong>Status:</strong> 🚀 Live</li>
 </ul>
 <p><a href="https://maps40.fredaugusto.com.br/Maps/client/pages/login/">🔗 View Project</a></p>
-<hr>
-<h2 id="-other-projects">📂 Other Projects</h2>
+<h3 id="telecord"><strong>Telecord:</strong></h3>
+<blockquote>
+<p><strong>Description:</strong> designed to relay messages between Telegram and Discord, was employed in the <a href="https://www.youtube.com/@Vittozao">Vittozão</a> community to automate the sharing of advertisements and discount codes.</p>
+</blockquote>
 <ul>
-<li>
-<p><strong>PokeGelo-CLI:</strong> A command-line interface (CLI) tool designed to simplify sending HTTP requests. Easier and more intuitive than using curl, PokeGelo-CLI allows sending HTTP requests by providing a JSON file containing the request and its body. Useful for testing APIs, debugging, and automating HTTP requests.</p>
-<p><a href="https://github.com/Gabriel-Spinola/PokeGelo-CLI">🔗 View Project</a></p>
-</li>
-<li>
-<p><strong>Telecord:</strong> A bot for sending messages from a Telegram chat to a Discord chat.</p>
-<p><a href="https://github.com/Gabriel-Spinola/Wellington-Bot">🔗 View Project</a></p>
-</li>
+<li><strong>Technologies Used:</strong> Javascript</li>
+<li><strong>Status:</strong> 🚀 Live</li>
 </ul>
+<p><a href="https://github.com/Gabriel-Spinola/Wellington-Bot">🔗 View Project</a></p>
+<hr>
+<h2 id="-tools--open-source-contributions">📂 Tools &amp; Open Source Contributions</h2>
+<h3 id="pokegelo-cli"><strong>PokeGelo-CLI</strong></h3>
+<p>A command-line interface (CLI) tool designed to simplify sending HTTP requests. Easier and more intuitive than using curl, PokeGelo-CLI allows sending HTTP requests by providing a JSON file containing the request and its body. Useful for testing APIs, debugging, and automating HTTP requests.</p>
+<p><a href="https://github.com/Gabriel-Spinola/PokeGelo-CLI">🔗 View Project</a></p>
+<h3 id="arquitetura-m-rinha-de-backends"><strong>Arquitetura M (Rinha de Backends)</strong></h3>
+<p>Http framework and application built from scratch with C. featuring: concurrent API implementation, reverse proxy and, PostgreSQL database implentation.
+Submission for <a href="https://github.com/zanfranceschi/rinha-de-backend-2024-q1">https://github.com/zanfranceschi/rinha-de-backend-2024-q1</a></p>
+<p><a href="https://github.com/Gabriel-Spinola/http-server-in-c">🔗 View Project</a></p>
 <h2 id="ଳ-game-dev-projects">ଳ Game Dev Projects</h2>
 <ul>
-<li>
-<p><strong>Mini App:</strong> A small utility app built using Vue.js.<br>
-<a href="https://example.com/mini-app">🔗 View Project</a></p>
-</li>
-<li>
-<p><strong>E-commerce Platform:</strong> A robust platform for online businesses.<br>
-<a href="https://example.com/ecommerce">🔗 View Project</a></p>
-</li>
+<li><strong>Re-bot:</strong> This game was developed for the Game Jaaj 6. The theme was Cycles.</li>
 </ul>
+<blockquote>
+<p>Re-Bot is a 2D platformer game, with intuitive gameplay, an enigmatic story, and some cute characters&hellip; or not so.</p>
+<iframe frameborder="0" src="https://itch.io/embed/1134745?bg_color=323132&amp;fg_color=ff873f&amp;link_color=ffffff&amp;border_color=ffdd94" width="552" height="167"><a href="https://gabriel-spinola.itch.io/re-bot">Re-Bot! by Gabriel-Spinola, Tio_Torugo_BR</a></iframe>
+</blockquote>
+<p><a href="https://gabriel-spinola.itch.io/re-bot">🔗 View Project</a></p>
+<ul>
+<li><strong>Hell-End:</strong> 2D platformer game built in 3 days.<br>
+Developed for the <a href="https://itch.io/jam/vacajam-meio/rate/1238332">Vaca Jam</a>. The theme was <em>The esiest game of the world</em>.
+2D Bullet hell platformer shooter</li>
+</ul>
+<blockquote>
+<iframe frameborder="0" src="https://itch.io/embed/1238332?bg_color=290d27&amp;fg_color=eccd84&amp;link_color=d467db&amp;border_color=d8ad5b" width="552" height="167"><a href="https://gabriel-spinola.itch.io/vacajam">Hell End by Gabriel-Spinola, aahnnt, Danji &lt;3</a></iframe>
+</blockquote>
+<p><a href="https://gabriel-spinola.itch.io/vacajam">🔗 View Project</a></p>
 <hr>
 <h2 id="contact-me">Contact me</h2>
-<p>If you’re interested in learning more or collaborating, feel free to reach out via <a href="mailto:your-email@example.com">email</a> or <a href="https://linkedin.com/in/your-profile">LinkedIn</a>.</p>
+<p>feel free to reach out via <a href="mailto:gabrielspinola77@gmail.com">email</a>, <a href="https://github.com/Gabriel-Spinola">github</a> or <a href="https://www.linkedin.com/in/gabriel-spinola-b64b5b273/">LinkedIn</a>.</p>
 ]]></content:encoded>
     </item>
     <item>

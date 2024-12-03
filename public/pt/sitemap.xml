@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/pt/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -12,6 +13,70 @@
                 rel="alternate"
                 hreflang="pt-BR"
                 href="http://localhost:1313/pt/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt/projects/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/maps40/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/blog/maps40/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt/blog/maps40/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt/tags/emoji/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/pt/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/categories/</loc>
@@ -24,18 +89,6 @@
                 rel="alternate"
                 hreflang="pt-BR"
                 href="http://localhost:1313/pt/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt/tags/"
                 />
   </url>
 </urlset>
