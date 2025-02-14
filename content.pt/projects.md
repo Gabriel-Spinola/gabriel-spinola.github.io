@@ -10,20 +10,38 @@ weight: 1
 
 ## 🌟 Projetos em Produção!
 
-### **Vigel Tech**
+### [**Vigel Tech**](https://vigeltech.vercel.app/)
 ![Project 1 Screenshot](/images/vigeltech.png)
-> **Description:** Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.
+**Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.**
 
 - **Technologies Used:** ReactJS (NextJS) & Kotlin
 - **Status:** 🚀 No Ar
 
+---
+
 [🔗 View Project](https://vigeltech.vercel.app/)
+
+### [**Spectral Analyzer**](/projects/spectral-analyzer/)
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/chat.png" style="width: 100%; height: 350px; object-fit: cover;">
+</div>
+
+**Sistema de análise espectral de compostos para identificação e quantificação de elementos em misturas. Permite a seleção de áreas de interesse em imagens e a análise da refletância espectral em diferentes bandas. Utiliza SVM (Máquina de Vetores de Suporte) para classificar pixels e calcular a ocorrência dos elementos, avaliando a homogeneidade espacial.**
+
+- ***Technologies Used**: Python, OpenCV, Scikit-Learn
+- **Features**:
+  - Classificação espectral via aprendizado de máquina
+  - Análise espacial da distribuição de elementos
+  - Cálculo de coerência espacial por quadrantes
+- **Status:** 🚀 No Ar
+
+[🔗 View Project](/projects/spectral-analyzer/)
 
 ---
 
 ### **Maps 4.0**
 ![Project 2 Screenshot](/images/maps40.png)
-> **Description:** Sistema projetado para simplificar o gerenciamento e agendamento de salas no SENAI Centro 4.0. Permite que a equipe verifique a disponibilidade, reserve espaços e acesse cronogramas com facilidade. Ao centralizar as informações, evita conflitos de agendamento e otimiza o uso do espaço.
+**Description:** Sistema projetado para simplificar o gerenciamento e agendamento de salas no SENAI Centro 4.0. Permite que a equipe verifique a disponibilidade, reserve espaços e acesse cronogramas com facilidade. Ao centralizar as informações, evita conflitos de agendamento e otimiza o uso do espaço.
 
 - **Technologies Used:** Javascript & PHP
 - **Features:**
@@ -33,7 +51,7 @@ weight: 1
 
 [🔗 View Project](https://maps40.fredaugusto.com.br/Maps/client/pages/login/)
 
-### **Telecord:** 
+### [**Telecord:**](https://github.com/Gabriel-Spinola/Wellington-Bot)
 > **Description:** Projetado para retransmitir mensagens entre Telegram e Discord, foi utilizado na comunidade [Vittozão](https://www.youtube.com/@Vittozao) para automatizar o compartilhamento de anúncios e códigos de desconto.
 
 - **Technologies Used:** Javascript

@@ -15,9 +15,8 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gabrielspinola77@gmail.com (Gabriel Spinola)</author>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h1 id=&#34;-my-projects&#34;&gt;🚀 My Projects&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my projects showcase!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-featured-projects&#34;&gt;🌟 Featured Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vigel-tech&#34;&gt;&lt;strong&gt;Vigel Tech&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 1 Screenshot&#34; src=&#34;http://localhost:1313/images/vigeltech.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A development agency focused on web and mobile development&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; ReactJS (NextJS) &amp;amp; Kotlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; 🚀 Live&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;🔗 View Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;maps-40&#34;&gt;&lt;strong&gt;Maps 4.0&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 2 Screenshot&#34; src=&#34;http://localhost:1313/images/maps40.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; system designed to streamline the management and scheduling of rooms at SENAI Centro 4.0. It allows staff to check availability, book spaces, and access schedules with ease. By centralizing information, it prevents scheduling conflicts and optimizes space usage.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;-my-projects&#34;&gt;🚀 My Projects&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-featured-projects&#34;&gt;🌟 Featured Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vigel-tech&#34;&gt;&lt;strong&gt;Vigel Tech&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 1 Screenshot&#34; src=&#34;http://localhost:1313/images/vigeltech.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A development agency focused on web and mobile development&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; ReactJS (NextJS) &amp;amp; Kotlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; 🚀 Live&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;🔗 View Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the translated version of the text:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;spectral-analyzerprojectsspectral-analyzer&#34;&gt;&lt;a href=&#34;http://localhost:1313/projects/spectral-analyzer/&#34;&gt;&lt;strong&gt;Spectral Analyzer&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;div style=&#34;display: flex; flex-direction: &#39;row&#39;; justify-content: center; align-items: center; gap:40px&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/chat.png&#34; style=&#34;width: 100%; height: 350px; object-fit: cover;&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Spectral analysis system of compounds for the identification and quantification of elements in mixtures. It allows the selection of areas of interest in images and the analysis of spectral reflectance in different bands. Uses SVM (Support Vector Machine) to classify pixels and calculate the occurrence of elements, evaluating spatial homogeneity.&lt;/strong&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="-my-projects">🚀 My Projects</h1>
-<p>Welcome to my projects showcase!</p>
 <hr>
 <h2 id="-featured-projects">🌟 Featured Projects</h2>
 <h3 id="vigel-tech"><strong>Vigel Tech</strong></h3>
@@ -30,6 +29,26 @@
 <li><strong>Status:</strong> 🚀 Live</li>
 </ul>
 <p><a href="https://vigeltech.vercel.app/">🔗 View Project</a></p>
+<hr>
+<p>Here&rsquo;s the translated version of the text:</p>
+<hr>
+<h3 id="spectral-analyzerprojectsspectral-analyzer"><a href="/projects/spectral-analyzer/"><strong>Spectral Analyzer</strong></a></h3>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/chat.png" style="width: 100%; height: 350px; object-fit: cover;">
+</div>
+<p><strong>Spectral analysis system of compounds for the identification and quantification of elements in mixtures. It allows the selection of areas of interest in images and the analysis of spectral reflectance in different bands. Uses SVM (Support Vector Machine) to classify pixels and calculate the occurrence of elements, evaluating spatial homogeneity.</strong></p>
+<ul>
+<li>*<strong>Technologies Used</strong>: Python, OpenCV, Scikit-Learn</li>
+<li><strong>Features</strong>:
+<ul>
+<li>Spectral classification via machine learning</li>
+<li>Spatial analysis of element distribution</li>
+<li>Calculation of spatial coherence by quadrants</li>
+</ul>
+</li>
+<li><strong>Status:</strong> 🚀 Live</li>
+</ul>
+<p><a href="/projects/spectral-analyzer/">🔗 View Project</a></p>
 <hr>
 <h3 id="maps-40"><strong>Maps 4.0</strong></h3>
 <p><img alt="Project 2 Screenshot" src="/images/maps40.png"></p>
@@ -95,6 +114,82 @@ Developed for the <a href="https://itch.io/jam/vacajam-meio/rate/1238332">Vaca J
       <guid>http://localhost:1313/blog/maps40/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/spectral-analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gabrielspinola77@gmail.com (Gabriel Spinola)</author>
+      <guid>http://localhost:1313/projects/spectral-analyzer/</guid>
+      <description>&lt;h1 id=&#34;spectral-analysis-of-compounds&#34;&gt;&lt;strong&gt;Spectral Analysis of Compounds&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The project aims to develop a spectral analysis system for the identification and quantification of elements present in mixtures. The system allows users to select areas of interest in an image and analyze the spectral reflectance of those areas across different spectral bands. This way, it is possible to check the proportion, classify, and categorize the elements in the analyzed composition. In addition to manual selection, the system also performs &lt;strong&gt;automatic selection of areas of interest&lt;/strong&gt;, optimizing the analysis process.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="spectral-analysis-of-compounds"><strong>Spectral Analysis of Compounds</strong></h1>
+<h2 id="overview"><strong>Overview</strong></h2>
+<p>The project aims to develop a spectral analysis system for the identification and quantification of elements present in mixtures. The system allows users to select areas of interest in an image and analyze the spectral reflectance of those areas across different spectral bands. This way, it is possible to check the proportion, classify, and categorize the elements in the analyzed composition. In addition to manual selection, the system also performs <strong>automatic selection of areas of interest</strong>, optimizing the analysis process.</p>
+<h2 id="objectives"><strong>Objectives</strong></h2>
+<ul>
+<li>Identify the elements present in the mixture through spectral analysis.</li>
+<li>Classify the image pixels according to their spectral characteristics.</li>
+<li>Evaluate the spatial distribution of the elements in the image.</li>
+<li>Quantify the occurrence of each element in specific regions.</li>
+<li>Generate detailed graphs of the spectral analysis.</li>
+</ul>
+<h2 id="methodology"><strong>Methodology</strong></h2>
+<h3 id="image-acquisition-and-processing"><strong>Image Acquisition and Processing</strong></h3>
+<ul>
+<li>Spectral images are captured and processed to enhance the bands of interest.</li>
+<li>The system allows both manual and <strong>automatic selection</strong> of areas of interest for detailed analysis.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/asa.png" height="500px">
+<img src="/images/auto.png" height="500px">
+</div>
+<blockquote>
+<p><em>Example of a spectral image with automatic selection of areas of interest.</em></p>
+</blockquote>
+<h3 id="machine-learning-classification"><strong>Machine Learning Classification</strong></h3>
+<ul>
+<li>The <strong>SVM (Support Vector Machine)</strong> model is used to classify the image pixels.</li>
+<li>The pixels are categorized into different classes corresponding to the elements present in the mixture.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/reflectancia.png" height="350px">
+</div>
+<blockquote>
+<p><em>Graph illustrating the classification of elements by the SVM model.</em></p>
+</blockquote>
+<h3 id="spatial-analysis-of-element-distribution"><strong>Spatial Analysis of Element Distribution</strong></h3>
+<ul>
+<li>The image is segmented into <strong>quadrants</strong> for the evaluation of spatial homogeneity.</li>
+<li>The standard deviation of spatial coherence within each quadrant is calculated.</li>
+<li><strong>Graphs are generated</strong> to represent the distribution of the elements.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/separacao.png" height="350px">
+</div>
+<blockquote>
+<p><em>Spatial distribution of elements with coherence analysis.</em></p>
+</blockquote>
+<h2 id="results"><strong>Results</strong></h2>
+<p>The tests conducted demonstrated the effectiveness of the system in <strong>classifying and quantifying the elements</strong> present in the analyzed mixtures. The main results include:</p>
+<ul>
+<li><strong>Accurate classification of pixels</strong> into different spectral categories.</li>
+<li><strong>Identification of the proportion</strong> of each element within the sample.</li>
+<li><strong>Spatial homogeneity analysis</strong>, assisting in evaluating the distribution of the compounds.</li>
+<li><strong>Generation of detailed graphs</strong> for the visualization and interpretation of spectral data.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:20px">
+<img src="/images/matriz.png" height="350px">
+<img src="/images/pca.png" height="350px">
+</div>
+<blockquote>
+<p><em>Graphs representing the accuracy of the classifications.</em></p>
+</blockquote>
+<h2 id="technologies-used"><strong>Technologies Used</strong></h2>
+<ul>
+<li><strong>Language:</strong> Python</li>
+<li><strong>Libraries:</strong> OpenCV, Scikit-Learn, NumPy, Matplotlib</li>
+<li><strong>Techniques:</strong> Image processing, machine learning (SVM), spectral analysis, graph generation</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

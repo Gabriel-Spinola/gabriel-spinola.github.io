@@ -15,26 +15,40 @@
       <link>http://localhost:1313/pt/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gabrielspinola77@gmail.com (Gabriel Spinola)</author>
       <guid>http://localhost:1313/pt/projects/</guid>
-      <description>&lt;h1 id=&#34;-meus-proejtos&#34;&gt;🚀 Meus Proejtos&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-projetos-em-produção&#34;&gt;🌟 Projetos em Produção!&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vigel-tech&#34;&gt;&lt;strong&gt;Vigel Tech&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 1 Screenshot&#34; src=&#34;http://localhost:1313/images/vigeltech.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; ReactJS (NextJS) &amp;amp; Kotlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; 🚀 No Ar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;🔗 View Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;maps-40&#34;&gt;&lt;strong&gt;Maps 4.0&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 2 Screenshot&#34; src=&#34;http://localhost:1313/images/maps40.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Sistema projetado para simplificar o gerenciamento e agendamento de salas no SENAI Centro 4.0. Permite que a equipe verifique a disponibilidade, reserve espaços e acesse cronogramas com facilidade. Ao centralizar as informações, evita conflitos de agendamento e otimiza o uso do espaço.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;-meus-proejtos&#34;&gt;🚀 Meus Proejtos&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-projetos-em-produção&#34;&gt;🌟 Projetos em Produção!&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vigel-techhttpsvigeltechvercelapp&#34;&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;&lt;strong&gt;Vigel Tech&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Project 1 Screenshot&#34; src=&#34;http://localhost:1313/images/vigeltech.png&#34;&gt;&#xA;&lt;strong&gt;Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; ReactJS (NextJS) &amp;amp; Kotlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; 🚀 No Ar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vigeltech.vercel.app/&#34;&gt;🔗 View Project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;spectral-analyzerprojectsspectral-analyzer&#34;&gt;&lt;a href=&#34;http://localhost:1313/pt/projects/spectral-analyzer/&#34;&gt;&lt;strong&gt;Spectral Analyzer&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;div style=&#34;display: flex; flex-direction: &#39;row&#39;; justify-content: center; align-items: center; gap:40px&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/chat.png&#34; style=&#34;width: 100%; height: 350px; object-fit: cover;&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Sistema de análise espectral de compostos para identificação e quantificação de elementos em misturas. Permite a seleção de áreas de interesse em imagens e a análise da refletância espectral em diferentes bandas. Utiliza SVM (Máquina de Vetores de Suporte) para classificar pixels e calcular a ocorrência dos elementos, avaliando a homogeneidade espacial.&lt;/strong&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="-meus-proejtos">🚀 Meus Proejtos</h1>
 <hr>
 <h2 id="-projetos-em-produção">🌟 Projetos em Produção!</h2>
-<h3 id="vigel-tech"><strong>Vigel Tech</strong></h3>
-<p><img alt="Project 1 Screenshot" src="/images/vigeltech.png"></p>
-<blockquote>
-<p><strong>Description:</strong> Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.</p>
-</blockquote>
+<h3 id="vigel-techhttpsvigeltechvercelapp"><a href="https://vigeltech.vercel.app/"><strong>Vigel Tech</strong></a></h3>
+<p><img alt="Project 1 Screenshot" src="/images/vigeltech.png">
+<strong>Uma agência de desenvolvimento focada em criação de sites e aplicativos móveis.</strong></p>
 <ul>
 <li><strong>Technologies Used:</strong> ReactJS (NextJS) &amp; Kotlin</li>
 <li><strong>Status:</strong> 🚀 No Ar</li>
 </ul>
+<hr>
 <p><a href="https://vigeltech.vercel.app/">🔗 View Project</a></p>
+<h3 id="spectral-analyzerprojectsspectral-analyzer"><a href="/pt/projects/spectral-analyzer/"><strong>Spectral Analyzer</strong></a></h3>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/chat.png" style="width: 100%; height: 350px; object-fit: cover;">
+</div>
+<p><strong>Sistema de análise espectral de compostos para identificação e quantificação de elementos em misturas. Permite a seleção de áreas de interesse em imagens e a análise da refletância espectral em diferentes bandas. Utiliza SVM (Máquina de Vetores de Suporte) para classificar pixels e calcular a ocorrência dos elementos, avaliando a homogeneidade espacial.</strong></p>
+<ul>
+<li>*<strong>Technologies Used</strong>: Python, OpenCV, Scikit-Learn</li>
+<li><strong>Features</strong>:
+<ul>
+<li>Classificação espectral via aprendizado de máquina</li>
+<li>Análise espacial da distribuição de elementos</li>
+<li>Cálculo de coerência espacial por quadrantes</li>
+</ul>
+</li>
+<li><strong>Status:</strong> 🚀 No Ar</li>
+</ul>
+<p><a href="/pt/projects/spectral-analyzer/">🔗 View Project</a></p>
 <hr>
 <h3 id="maps-40"><strong>Maps 4.0</strong></h3>
-<p><img alt="Project 2 Screenshot" src="/images/maps40.png"></p>
-<blockquote>
-<p><strong>Description:</strong> Sistema projetado para simplificar o gerenciamento e agendamento de salas no SENAI Centro 4.0. Permite que a equipe verifique a disponibilidade, reserve espaços e acesse cronogramas com facilidade. Ao centralizar as informações, evita conflitos de agendamento e otimiza o uso do espaço.</p>
-</blockquote>
+<p><img alt="Project 2 Screenshot" src="/images/maps40.png">
+<strong>Description:</strong> Sistema projetado para simplificar o gerenciamento e agendamento de salas no SENAI Centro 4.0. Permite que a equipe verifique a disponibilidade, reserve espaços e acesse cronogramas com facilidade. Ao centralizar as informações, evita conflitos de agendamento e otimiza o uso do espaço.</p>
 <ul>
 <li><strong>Technologies Used:</strong> Javascript &amp; PHP</li>
 <li><strong>Features:</strong>
@@ -46,7 +60,7 @@
 <li><strong>Status:</strong> 🚀 No Ar</li>
 </ul>
 <p><a href="https://maps40.fredaugusto.com.br/Maps/client/pages/login/">🔗 View Project</a></p>
-<h3 id="telecord"><strong>Telecord:</strong></h3>
+<h3 id="telecordhttpsgithubcomgabriel-spinolawellington-bot"><a href="https://github.com/Gabriel-Spinola/Wellington-Bot"><strong>Telecord:</strong></a></h3>
 <blockquote>
 <p><strong>Description:</strong> Projetado para retransmitir mensagens entre Telegram e Discord, foi utilizado na comunidade <a href="https://www.youtube.com/@Vittozao">Vittozão</a> para automatizar o compartilhamento de anúncios e códigos de desconto.</p>
 </blockquote>
@@ -93,6 +107,82 @@ Developed for the <a href="https://itch.io/jam/vacajam-meio/rate/1238332">Vaca J
       <guid>http://localhost:1313/pt/blog/maps40/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pt/projects/spectral-analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gabrielspinola77@gmail.com (Gabriel Spinola)</author>
+      <guid>http://localhost:1313/pt/projects/spectral-analyzer/</guid>
+      <description>&lt;h1 id=&#34;análise-espectral-de-compostos&#34;&gt;&lt;strong&gt;Análise Espectral de Compostos&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;visão-geral&#34;&gt;&lt;strong&gt;Visão Geral&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;O projeto visa o desenvolvimento de um sistema de análise espectral para identificação e quantificação de elementos presentes em misturas. O sistema permite aos usuários selecionarem áreas de interesse em uma imagem e analisar a refletância espectral dessas áreas em diferentes bandas espectrais. Dessa forma, é possível verificar a proporção, classificar e categorizar os elementos da composição analisada. Além da seleção manual, o sistema também realiza a &lt;strong&gt;seleção automática das áreas de interesse&lt;/strong&gt;, otimizando o processo de análise.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="análise-espectral-de-compostos"><strong>Análise Espectral de Compostos</strong></h1>
+<h2 id="visão-geral"><strong>Visão Geral</strong></h2>
+<p>O projeto visa o desenvolvimento de um sistema de análise espectral para identificação e quantificação de elementos presentes em misturas. O sistema permite aos usuários selecionarem áreas de interesse em uma imagem e analisar a refletância espectral dessas áreas em diferentes bandas espectrais. Dessa forma, é possível verificar a proporção, classificar e categorizar os elementos da composição analisada. Além da seleção manual, o sistema também realiza a <strong>seleção automática das áreas de interesse</strong>, otimizando o processo de análise.</p>
+<h2 id="objetivos"><strong>Objetivos</strong></h2>
+<ul>
+<li>Identificar os elementos presentes na mistura por meio da análise espectral.</li>
+<li>Classificar os pixels da imagem de acordo com as características espectrais.</li>
+<li>Avaliar a distribuição espacial dos elementos na imagem.</li>
+<li>Quantificar a ocorrência de cada elemento em regiões específicas.</li>
+<li>Gerar gráficos detalhados da análise espectral.</li>
+</ul>
+<h2 id="metodologia"><strong>Metodologia</strong></h2>
+<h3 id="aquisição-e-processamento-de-imagem"><strong>Aquisição e Processamento de Imagem</strong></h3>
+<ul>
+<li>As imagens espectrais são capturadas e processadas para realce das bandas de interesse.</li>
+<li>O sistema permite tanto a seleção manual quanto a <strong>seleção automática</strong> das áreas de interesse para análise detalhada.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/asa.png" height="500px">
+<img src="/images/auto.png" height="500px">
+</div>
+<blockquote>
+<p><em>Exemplo de imagem espectral com seleção automática das áreas de interesse.</em></p>
+</blockquote>
+<h3 id="classificação-por-aprendizado-de-máquina"><strong>Classificação por Aprendizado de Máquina</strong></h3>
+<ul>
+<li>Utilização do modelo <strong>SVM (Máquina de Vetores de Suporte)</strong> para classificar os pixels da imagem.</li>
+<li>Os pixels são categorizados em diferentes classes, correspondentes aos elementos presentes na mistura.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/reflectancia.png" height="350px">
+</div>
+<blockquote>
+<p><em>Gráfico ilustrando a classificação dos elementos pelo modelo SVM.</em></p>
+</blockquote>
+<h3 id="análise-espacial-da-distribuição-dos-elementos"><strong>Análise Espacial da Distribuição dos Elementos</strong></h3>
+<ul>
+<li>A imagem é segmentada em <strong>quadrantes</strong> para avaliação da homogeneidade espacial.</li>
+<li>O desvio padrão da coerência espacial dentro de cada quadrante é calculado.</li>
+<li><strong>Gráficos são gerados</strong> para representar a distribuição dos elementos.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/separacao.png" height="350px">
+</div>
+<blockquote>
+<p><em>Distribuição espacial dos elementos com análise de coerência.</em></p>
+</blockquote>
+<h2 id="resultados"><strong>Resultados</strong></h2>
+<p>Os testes realizados demonstraram a eficácia do sistema na <strong>classificação e quantificação dos elementos</strong> presentes nas misturas analisadas. Os principais resultados incluem:</p>
+<ul>
+<li><strong>Classificação precisa dos pixels</strong> em diferentes categorias espectrais.</li>
+<li><strong>Identificação da proporção</strong> de cada elemento dentro da amostra.</li>
+<li><strong>Análise da homogeneidade espacial</strong>, auxiliando na avaliação da distribuição dos compostos.</li>
+<li><strong>Geração de gráficos detalhados</strong> para visualização e interpretação dos dados espectrais.</li>
+</ul>
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:20px">
+<img src="/images/matriz.png" height="350px">
+<img src="/images/pca.png" height="350px">
+</div>
+<blockquote>
+<p><em>Gráficos representando a precisão das classificações.</em></p>
+</blockquote>
+<h2 id="tecnologias-utilizadas"><strong>Tecnologias Utilizadas</strong></h2>
+<ul>
+<li><strong>Linguagem:</strong> Python</li>
+<li><strong>Bibliotecas:</strong> OpenCV, Scikit-Learn, NumPy, Matplotlib</li>
+<li><strong>Técnicas:</strong> Processamento de imagem, aprendizado de máquina (SVM), análise espectral, geração de gráficos</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,6 @@ weight: 1
 
 # 🚀 My Projects
 
-Welcome to my projects showcase! 
-
 ---
 
 ## 🌟 Featured Projects
@@ -20,6 +18,29 @@ Welcome to my projects showcase!
 - **Status:** 🚀 Live
 
 [🔗 View Project](https://vigeltech.vercel.app/)
+
+---
+
+Here's the translated version of the text:
+
+---
+
+### [**Spectral Analyzer**](/projects/spectral-analyzer/)
+
+<div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
+<img src="/images/chat.png" style="width: 100%; height: 350px; object-fit: cover;">
+</div>
+
+**Spectral analysis system of compounds for the identification and quantification of elements in mixtures. It allows the selection of areas of interest in images and the analysis of spectral reflectance in different bands. Uses SVM (Support Vector Machine) to classify pixels and calculate the occurrence of elements, evaluating spatial homogeneity.**
+
+- ***Technologies Used**: Python, OpenCV, Scikit-Learn
+- **Features**:
+  - Spectral classification via machine learning
+  - Spatial analysis of element distribution
+  - Calculation of spatial coherence by quadrants
+- **Status:** 🚀 Live
+
+[🔗 View Project](/projects/spectral-analyzer/)
 
 ---
 
