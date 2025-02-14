@@ -21,10 +21,6 @@ weight: 1
 
 ---
 
-Here's the translated version of the text:
-
----
-
 ### [**Spectral Analyzer**](/projects/spectral-analyzer/)
 
 <div style="display: flex; flex-direction: 'row'; justify-content: center; align-items: center; gap:40px">
